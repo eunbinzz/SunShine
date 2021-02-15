@@ -1,3 +1,3 @@
-# SunShine-t-
+# SunShine
 
 https://eunbinzz.github.io/SunShine/
