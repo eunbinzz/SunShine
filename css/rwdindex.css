@@ -6,7 +6,7 @@
 
 
 @media screen and (max-width: 1024px) {
-    #header h1 {padding: 20px 0; margin-left: 30px }
+    #header h1 {padding: 20px 0; margin-left: 30px}
     #header .open {display: block; position: absolute; top: 50%; right: 20px; 
                    width: 23px; height: 18px; margin-top: -9px;}
     #header .open.on {margin-top: -2px;}
@@ -50,6 +50,9 @@
     .article3 .txtbox p:nth-child(2) {font-size: 13px; font-weight: 600; line-height: 20px; 
                                       background:#397dda; padding-top: 20px; min-height: 140px;}
 
+    .article6 .cont img {float: left; width: 33.33%; padding: 10px;}
+    
+    /* footer구역 */
     #footer p:nth-child(2) span {display: block;}
     #footer p:nth-child(2) span.hide {display: none;}
 
@@ -71,6 +74,9 @@
     .article3 .imgbox img {transition: all 0.5s; width: 100%;} 
     .article3 .txtbox p:nth-child(2) {font-size: 13px; font-weight: 600; line-height: 20px; 
                                       background:#397dda; padding-top: 20px; min-height: auto;}
+    
+    .article6 .cont img {float: left; width: 50%; padding: 10px;}
+
     /* footer 구역 */
     #footer {background: #303030; padding: 0px 0 15px; text-align: center; 
              color: #8d8b8b; font-size: 12px;}
